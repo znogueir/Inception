@@ -1,5 +1,5 @@
-# 42-Inception
-#### A 42 School project
+# Inception
+A 42 School project
 <br>
 
 Goal(s) : 
